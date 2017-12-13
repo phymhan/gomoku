@@ -1,5 +1,5 @@
 # A simple [Gomoku](https://en.wikipedia.org/wiki/Gomoku) game written in Python
-![alt text](https://github.com/phymhan/gomoku/gomoku.png "Screenshot")
+![alt text](gomoku.png "Screenshot")
 
 ## How to use
 Simply run
