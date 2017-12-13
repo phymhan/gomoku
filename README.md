@@ -1,4 +1,6 @@
 # A simple [Gomoku](https://en.wikipedia.org/wiki/Gomoku) game written in Python
+![alt text](https://github.com/phymhan/gomoku.png "Screenshot")
+
 ## How to use
 Simply run
 ```
