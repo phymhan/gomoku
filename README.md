@@ -1,4 +1,7 @@
 # A simple [Gomoku](https://en.wikipedia.org/wiki/Gomoku) game written in Python
+- GUI and CLI interface
+- A simple implementation of AI player
+- Play remotely through socket interface
 ![alt text](gomoku.png "Screenshot")
 
 ## How to use
@@ -6,7 +9,7 @@ Simply run
 ```
 python gomoku.py
 ```
-or a CLI version
+or a CLI version (pretty much forked from [Skywind](https://github.com/skywind3000/gobang))
 ```
 python gomoku_cli.py
 ```
